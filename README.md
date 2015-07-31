@@ -3,4 +3,4 @@ Corona sdk source code for the above
 
 Video Demo:
 
-![ScreenShot]( https://youtu.be/bi-uZVHnfbI)
+https://youtu.be/bi-uZVHnfbI
