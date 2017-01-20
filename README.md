@@ -1,4 +1,4 @@
-# Fibonacci_clock
+# Fibonacci_clock Lua
 Corona sdk source code for the above
 
 Video Demo  :https://youtu.be/bi-uZVHnfbI
