@@ -1,6 +1,8 @@
 # Fibonacci_clock
 Corona sdk source code for the above
 
-Video Demo:
+Video Demo  :https://youtu.be/bi-uZVHnfbI
 
-![alt tag](https://youtu.be/bi-uZVHnfbI)
+![alt tag]()
+
+
